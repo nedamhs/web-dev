@@ -29,7 +29,7 @@ Here's a walkthrough of implemented required features:
 <img src='chrome-capture-2025-2-28.gif' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with chrome capture  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -38,6 +38,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 containers were initialy to the left of the screen, took me a while to align them in the center. 
 
 ## License
