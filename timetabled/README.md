@@ -1,21 +1,21 @@
 # Web Development Project 1 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: Neda Mohseni
 
-This web app: **insert description**
+This web app: community board
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [x] **There is a unique theme for events or resources relevant to a specific community**
+- [x] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
+- [x] Buttons or links to a related resources are on each card component
 - [ ] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
@@ -38,10 +38,11 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+containers were initialy to the left of the screen, took me a while to align them in the center. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Neda Mohseni
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
