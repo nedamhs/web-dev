@@ -20,14 +20,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [x] box shadow when hovered over the containers
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
 <img src='chrome-capture-2025-2-28.gif' width='' alt='Video Walkthrough' />
-![video walktrough](https://imgur.com/a/k1HIoyv)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
