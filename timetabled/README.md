@@ -1,8 +1,8 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - community board
 
 Submitted by: Neda Mohseni
 
-This web app: community board
+This web app: community board that provides resources for tech enthusiasts
 
 Time spent: 3 hours spent in total
 
