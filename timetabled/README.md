@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/k1HIoyv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='chrome-capture-2025-2-28.gif' width='' alt='Video Walkthrough' />
 ![video walktrough](https://imgur.com/a/k1HIoyv)
 
 <!-- Replace this with whatever GIF tool you used! -->
