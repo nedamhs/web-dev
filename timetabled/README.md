@@ -1,5 +1,7 @@
 #  community board
 
+ A community board of tech resources to empower underrepresented communities.
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
